@@ -1,4 +1,4 @@
-# Zadania C++
+# Wykłady C++
 > Tutaj znajdują się pliki c++ zadane do zrobienia z wykładów programowania.
 
 ## Info
