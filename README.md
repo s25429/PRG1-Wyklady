@@ -2,7 +2,8 @@
 > Tutaj znajdują się pliki c++ zadane do zrobienia z wykładów programowania.
 
 ## Info
-- Zadania posiadają notkę commitu, gdzie jest napisana data zajęć wykładowych, na których było zadane zrobienie zadań.
+- Zadania są pogrupowane w foldery. 
+- Foldery mają numer wykładu 'wyk1' i datę tego wykładu, z którego zadania w nim były zadane.
 - Pliki z ćwiczeń, lub inne projekty są w innych repozytoriach
 
 ## Kontakt
